@@ -26,7 +26,7 @@ Download and install the latest release of Obtainium on your Android handheld.
 | **Recomps** | Star Fox 64 (Starship) | izzy2lost / Starship | ✅ Verified |
 | **Recomps** | Super Mario 64 (Ghostship) | izzy2lost / Ghostship | ✅ Verified |
 | **Recomps** | Super Smash Bros. (BattleShip) | JRickey / BattleShip | ✅ Verified |
-| **Decomps** | Perfect Dark Decomp | izzy2lost / perfect_dark | ✅ Verified |
+| **Recomps** | Perfect Dark Decomp | izzy2lost / perfect_dark | ✅ Verified |
 | **Decomps** | Zelda: Majora's Mask (2 Ship) | linkzenic / 2ship2harkinian-Android | ✅ Verified |
 | **Decomps** | Zelda: Ocarina of Time (Shipwright) | Waterdish / Shipwright-Android | ✅ Verified |
 | **Decomps** | Zelda: Twilight Princess (Dusklight) | TwilitRealm / dusklight | ✅ Verified |
